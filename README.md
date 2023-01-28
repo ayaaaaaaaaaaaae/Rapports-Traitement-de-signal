@@ -24,6 +24,41 @@ la transmittance du filtre augmente également.
 ![image](https://user-images.githubusercontent.com/121400754/215268752-9ed8fe80-fec0-470d-bd40-1da6049bc5bb.png)
 On peut remarquer une attenuation importante au niveau des basses frequences, les filtres analogique sont moin efficaces que les filtres reel ce qui entraine une attenuation et non une annulation au niveau des basse frequences.
 
+## TP1
+
+ Analyse spectrale d’un signal /Transformée de Fourier discrète
+  
+ -------------------------Représentation temporelle et fréquentielle-----------------
+ 
+
+
+
+![image](https://user-images.githubusercontent.com/121400754/215294843-b48a8901-c3ea-432c-b514-e716cc25ebd7.png)
+
+  on obtient 5000 échantillons
+
+----------------------------Representation du spectre du signal x et  Transformé de Fourier-------------------
+
+![image](https://user-images.githubusercontent.com/121400754/215294932-6f1b9703-346d-47e9-b95a-21c4afd121a4.png)
+Pout faire la représentation frequentielle on applique la transformé de fourier discrète on utilisant la commande fft(x) ,le pas de discritisation dans le domaine fréquentiel est de  fe/N, on va donc obtenir 6 piques  car la transformée de fourier représente la symétrique conjugué
+
+![image](https://user-images.githubusercontent.com/121400754/215295183-3e72c31d-a049-439a-97be-01c9deca03c1.png)
+pour une meilleure visualisation on utilse fftshift qui  effectue un décalage circulaire centré sur zéro du spectre en amplitude obtenu par la commande fft.
+
+
+Un bruit correspond à tout phénomène perturbateur gênant la transmission ou l'interprétation d'un signal. Dans les applications scientifiques, les signaux sont souvent corrompus par du bruit aléatoire, modifiant ainsi leurs composantes fréquentielles. La TFD peut traiter le bruit aléatoire et révéler les fréquences qui y correspond.
+![image](https://user-images.githubusercontent.com/121400754/215295259-97734a52-d9cc-4282-8894-897f0a8ef073.png)
+
+------------------------------Un nouveau signal xnoise  en introduisant un bruit blanc gaussien ----------------
+
+![image](https://user-images.githubusercontent.com/121400754/215295364-8c69e3e5-ac21-449c-a68f-a7e7aa80635a.png)
+ 
+-----------------------------Commande sound pour écouter le signal et puis le signal bruité-----------------------
+
+
+
+
+
 
 
 

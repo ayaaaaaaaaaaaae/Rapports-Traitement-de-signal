@@ -65,7 +65,7 @@ subplot(312)
 plot(t,tmp_ecg2_filre);
 subplot(313)
 plot(t,tmp_ecg3_filre);
-[c,lags] = xcorr(tmp_ecg3_filre,tmp_ecg3_filre);
+[c,lags] = xcorr(tmp_ecg3_filre,tmp_ecg3_filre);% detecter la corelation du premier maximum local après le maximum global (à tau = 2)
 stem(lags/fe,c)
 %(
   Ce script effectue un filtrage sur un signal ECG enregistré dans le fichier 'ecg.mat'. 

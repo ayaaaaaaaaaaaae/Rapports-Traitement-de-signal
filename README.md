@@ -75,7 +75,7 @@ filtre passe bas
 
 ---------------------densite spectrale du chant -----------------------
 
-![image](https://user-images.githubusercontent.com/121400754/215299220-40ad0105-8e36-4013-9ddb-9c2421de0078.png)
+![image](https://user-images.githubusercontent.com/121400754/215300101-6f5877ad-b4c9-4e90-91af-f7cd99fac781.png)
 
 ----------------densite spectrale du chant 2-------------------------
 

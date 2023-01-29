@@ -55,6 +55,11 @@ Un bruit correspond à tout phénomène perturbateur gênant la transmission ou 
  
 -----------------------------Commande sound pour écouter le signal et puis le signal bruité-----------------------
 
+![image](https://user-images.githubusercontent.com/121400754/215296830-746df45d-24da-4add-ac34-5ac0a2601342.png)
+
+
+-------------------Analyse fréquentielle du chant du rorqual bleu------------------------------
+
 
 
 

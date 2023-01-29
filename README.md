@@ -58,20 +58,28 @@ Un bruit correspond à tout phénomène perturbateur gênant la transmission ou 
 ![image](https://user-images.githubusercontent.com/121400754/215296830-746df45d-24da-4add-ac34-5ac0a2601342.png)
 
 -------------------Filtrage Ideal------------------------
---------------filtre passe bas--------------------
+filtre passe bas
 
 ![image](https://user-images.githubusercontent.com/121400754/215299305-6af6a9b1-3668-4693-91a5-b5b32d56c5bd.png)
 
 ------application du filtre passe bas------------
+
 ![image](https://user-images.githubusercontent.com/121400754/215299376-b2a7227f-9791-4491-b19f-dd9b53080437.png)
  
 
 
 -------------------Analyse fréquentielle du chant du rorqual bleu------------------------------
 
-![image](https://user-images.githubusercontent.com/121400754/215298314-e98a204d-e3ac-4002-827b-18562748e3b9.png)
+![image](https://user-images.githubusercontent.com/121400754/215299973-a08943f8-3c52-4b49-a7f8-9f74b4c0f280.png)
+
+
+---------------------densite spectrale du chant -----------------------
 
 ![image](https://user-images.githubusercontent.com/121400754/215299220-40ad0105-8e36-4013-9ddb-9c2421de0078.png)
+
+----------------densite spectrale du chant 2-------------------------
+
+![image](https://user-images.githubusercontent.com/121400754/215299920-4112973f-6f6e-413e-9bde-333310543712.png)
 
 
 

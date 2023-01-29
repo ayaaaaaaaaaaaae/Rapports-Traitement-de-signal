@@ -32,11 +32,10 @@ Schant2 = fft(Chant2);
 
 Densite_spectrale_chant2 = abs(Schant2).^2/taille;
 
-ubplot(2,3,1)
+subplot(2,3,1)
 sound(chant,fs);
 plot(t,chant);
 legend("representation du signal Chant");
-xlabel("t");
 ylabel("chant");
 
 subplot(2,3,2)
@@ -46,15 +45,8 @@ subplot(2,3,3)
 f = (0:floor(taille/2))*(fs/taille)/10;
 plot(f,Densite_spectrale_chant(1:floor(taille/2)+1));
 legend("Densité spectrale du chant");
-xlabel("Fréquence (Hz)");
-ylabel("Densité spectrale en puissance");
+
 subplot(2,3,4)
-sound(Chant2,fs);
-plot(T,Chant2);
-legend("representation du signal Chant 2");
-xlabel("t");
-ylabel("chant 2");
-subplot(2,3,5)
 f = (0:floor(Taille/2))*(fs/Taille)/10;
 plot(f,Densite_spectrale_chant2(1:floor(Taille/2)+1));
 legend("Densité spectrale du chant 2");

@@ -24,9 +24,9 @@ la transmittance du filtre augmente également.
 ![image](https://user-images.githubusercontent.com/121400754/215268752-9ed8fe80-fec0-470d-bd40-1da6049bc5bb.png)
 On peut remarquer une attenuation importante au niveau des basses frequences, les filtres analogique sont moin efficaces que les filtres reel ce qui entraine une attenuation et non une annulation au niveau des basse frequences.
 
-## TP1
+## TP1 Analyse spectrale d’un signal /Transformée de Fourier discrète
 
- Analyse spectrale d’un signal /Transformée de Fourier discrète
+
   
  -------------------------Représentation temporelle et fréquentielle-----------------
  
@@ -80,6 +80,26 @@ filtre passe bas
 ----------------densite spectrale du chant 2-------------------------
 
 ![image](https://user-images.githubusercontent.com/121400754/215299920-4112973f-6f6e-413e-9bde-333310543712.png)
+
+## TP2  Jeux de mots / Synthèse et analyse spectrale d’une gamme de musique
+
+-----------------------Utilisation de l’outil graphique d’analyse de signaux signalAnalyzer ------------------
+
+![image](https://user-images.githubusercontent.com/121400754/215300366-c30ced01-aaec-473c-af47-bc29da458543.png)
+
+pour visualise le spectre, on remarque 8 piques correspondant au 8 notes de notre gamme musicale allant de DO a DO
+
+---------------------------------- le spectrogramme -----------------------------------------
+![image](https://user-images.githubusercontent.com/121400754/215300523-fec10a86-5b4d-408f-bcec-381517228887.png)
+
+Qui visualise le contenu fréquentiel du signal au cours du temps (comme le fait une partition de musique)
+
+---------------------------Approximation du spectre d’un signal sinusoïdal à temps continu par FFT----------------
+
+![image](https://user-images.githubusercontent.com/121400754/215300593-89718089-06fa-45f0-8536-208c497ee018.png)
+
+
+
 
 
 

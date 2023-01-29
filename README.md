@@ -60,6 +60,8 @@ Un bruit correspond à tout phénomène perturbateur gênant la transmission ou 
 
 -------------------Analyse fréquentielle du chant du rorqual bleu------------------------------
 
+![image](https://user-images.githubusercontent.com/121400754/215298314-e98a204d-e3ac-4002-827b-18562748e3b9.png)
+
 
 
 

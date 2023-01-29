@@ -50,6 +50,5 @@ subplot(2,3,4)
 f = (0:floor(Taille/2))*(fs/Taille)/10;
 plot(f,Densite_spectrale_chant2(1:floor(Taille/2)+1));
 legend("Densité spectrale du chant 2");
-xlabel("Fréquence (Hz)");
-ylabel("Densité spectrale en puissance");
+
 

@@ -113,9 +113,7 @@ Qui visualise le contenu fréquentiel du signal au cours du temps (comme le fait
 
 ![image](https://user-images.githubusercontent.com/121400754/215301263-87f53ba3-a554-4dbb-adf1-ac1bb79d5745.png)
 
-----------------Amélioration du rapport signal sur bruit----------------
 
-![image](https://user-images.githubusercontent.com/121400754/215301397-e02b5f38-ed52-40eb-af8d-aa060e9d42e1.png)
 
 
 

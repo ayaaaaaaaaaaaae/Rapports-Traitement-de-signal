@@ -1,4 +1,6 @@
 # Rapports-Traitement-de-signal 
+# Réalise par : Aya Alaoui Sosse Big Data
+# Encadré par : Prof Ammour Alae
 ## TP4
 
 FILTRAGE ET DIAGRAMME DE BODE
@@ -97,6 +99,24 @@ Qui visualise le contenu fréquentiel du signal au cours du temps (comme le fait
 ---------------------------Approximation du spectre d’un signal sinusoïdal à temps continu par FFT----------------
 
 ![image](https://user-images.githubusercontent.com/121400754/215300593-89718089-06fa-45f0-8536-208c497ee018.png)
+
+## TP3 
+----------plot(t,ecg)----------------------------
+
+![image](https://user-images.githubusercontent.com/121400754/215301174-4eedbf21-fdee-40ee-b20f-0116aa0c4fec.png)
+
+--------------suppression des bruits à très basse fréquence -----------------------
+
+![image](https://user-images.githubusercontent.com/121400754/215301230-9dadb085-c394-41cb-b3e8-cb6065847594.png)
+
+---------------Suppression des interférences des lignes électriques 50Hz------------------
+
+![image](https://user-images.githubusercontent.com/121400754/215301263-87f53ba3-a554-4dbb-adf1-ac1bb79d5745.png)
+
+----------------Amélioration du rapport signal sur bruit----------------
+
+![image](https://user-images.githubusercontent.com/121400754/215301397-e02b5f38-ed52-40eb-af8d-aa060e9d42e1.png)
+
 
 
 
